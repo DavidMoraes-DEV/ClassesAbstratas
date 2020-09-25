@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.exe
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.deps.json
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\ProgramasCSharp\ConceitoDeClassesAbstratas\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.genruntimeconfig.cache
